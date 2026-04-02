@@ -1,0 +1,1 @@
+import{j as a}from"./index-DIfmPI5Q.js";const e=({value:e,onChange:s})=>a.jsx("div",{className:"datatable-search",children:a.jsx("input",{type:"search",className:"form-control",placeholder:"Search","aria-controls":"DataTables_Table_0",value:e,onChange:a=>s(a.target.value)})});export{e as S};
